@@ -1,0 +1,26 @@
+{
+  "name": "hexo-migrator-front-matter-normalizer",
+  "version": "0.1.0",
+  "description": "A hexo migrator that normalize the post front matter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "migrator",
+    "front",
+    "matter",
+    "post",
+    "plugin"
+  ],
+  "author": "timnew <timnew.wti@gmail.com> (https://timnew.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "coffee-script": "^1.7.1",
+    "colors": "^0.6.2",
+    "lodash": "^2.4.1",
+    "lodash.omit": "^2.4.1"
+  }
+}
